@@ -8,7 +8,7 @@ import Blog from './Components/Blog';
 import Support from './Components/Support';
 import LogIn from './Components/LogIn';
 import SignUp from './Components/SignUp';
-import ProtectedRoute from './components/ProtectedRoute';
+import ProtectedRoute from './Components/ProtectedRoute';
 import { AuthProvider, useAuth } from './context/AuthContext';
 
 function AppRoutes() {
